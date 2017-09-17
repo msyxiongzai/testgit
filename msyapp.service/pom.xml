@@ -6,4 +6,16 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>msyapp.service</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.msy.com</groupId>
+  		<artifactId>msyapp.bean</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.msy.com</groupId>
+  		<artifactId>msyapp.dao</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
